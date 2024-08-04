@@ -1,5 +1,6 @@
-# Attack Scripts 
-- python (.py)
+# Bulk 
+- Python (.py)
+## Malicious Scripts
 - CSRF scripts (.html)
 - XSS (.js)
 
