@@ -9,11 +9,8 @@
 - Bruteforce (.py)
 # Payloads
 ## XXE
-
 ## XXS
-​
 ## SQLi
-
 ## ffuf ( bruteforce )
 
 ## dirbuster (FUZZ dir.)
