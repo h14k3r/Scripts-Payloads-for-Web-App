@@ -13,5 +13,5 @@
 ## dirbuster (FUZZ dir.)
 
 ## gobuster (FUZZ)
-## Permissions 
+## Purpose & Permissions 
 For Professional Work Flow purposes. Made public to fork.
