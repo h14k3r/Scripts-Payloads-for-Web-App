@@ -5,6 +5,7 @@
 - XXE (.py)
 - Bruteforce (.py)
 # Payloads
+## SSRF
 ## XXE
 ## XXS
 ## SQLi
