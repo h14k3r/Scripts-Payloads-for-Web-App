@@ -12,6 +12,7 @@
 ## ffuf ( bruteforce )
 
 ## dirbuster (FUZZ dir.)
+- ffuf -w /opt/useful/seclists/Discovery/Web-Content/directory-list-2.3-small.txt:FUZZ
 
 ## gobuster (FUZZ)
 ## Purpose & Permissions 
